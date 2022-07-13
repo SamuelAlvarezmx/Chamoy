@@ -1,9 +1,11 @@
 # Stock Analysis
 ## Overview of Project
 
-##Results
+We will use VBA within excell to analyze the stock market for green stocks and see how they have performed in 2017 and 2018. In order to make this happen it was evaluated the return percentage and the Total Daily Volume to see how well each of the stocks performed. We will need to refactor a code used before in order to enhance the time process and make it faster than the original one in order to make it fitter in any case that the data might grow larger.
 
-##Summary
+## Results
+
+## Summary
 
 Refactoring code is a common practice because there are sometimes that code can be more easier and therefore faster, there is no need to go through the same amount of loops or some data changed. The advantages of refactoring is that you have the felxibility to get the results that you are looking for. More efficiency or faster procedures. Disadvantages can be also that understanding the code of someone else is not very clear and maybe some lines of code that you think are not essential for the whole subroutine may not be true in the end. Also, refactoring can change completely the purpose of the first one.
 In this particular case, I think the main cons is that we are using more variables, is not as straight forward as the first subroutine made. If you are not following correctly your steps it might get confusing while refactoring.
